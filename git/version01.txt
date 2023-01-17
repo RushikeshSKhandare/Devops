@@ -7,3 +7,6 @@ This is code after running a git stash command
 =======
 This is the code for git stash
 >>>>>>> Stashed changes
+
+After bug fixing, this is the new feature with minor alteration
+
